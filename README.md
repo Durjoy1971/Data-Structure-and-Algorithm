@@ -1,1 +1,24 @@
-Data Structures and Algorithms (DSA) is a field of computer science that focuses on the study of organizing and manipulating data efficiently. It involves the design, analysis, and implementation of various data structures (such as arrays, linked lists, stacks, queues, trees, graphs, etc.) and algorithms (such as searching, sorting, hashing, graph traversal, etc.) to solve complex problems. DSA plays a crucial role in developing efficient and scalable software applications by providing optimized solutions for data storage, retrieval, and manipulation.
+**Data Structures and Algorithms (DSA)** is a fundamental part of Computer Science that teaches you how to think and solve complex problems systematically. Using the right data structure and algorithm makes your program run faster, especially when working with lots of data.
+
+This repository will cover topics using **C++** and **Java**.
+
+**Topic Wise:**
+
+- **Sorting Algorithms**
+
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+
+- **Tree based DSA**
+
+  - Binary Tree
+  - Binary Search Tree
+
+- **Searching Algorithms**
+  - Linear Search
+  - Binary Search
+
+Continue...
