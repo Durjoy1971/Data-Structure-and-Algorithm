@@ -1,0 +1,25 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+build/
+.gradle/
+.idea/
+.vscode/
+out/
+
+# C++
+.cph
+*.bin
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+build/
+bin/
+.vscode/
