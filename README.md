@@ -16,7 +16,7 @@ This repository will cover topics using **C++** and **Java**.
 
   - Binary Tree
   - Binary Search Tree
-  - Binary Tree Traversal
+  - Tree Traversal
 
 - **Searching Algorithms**
   - Linear Search
