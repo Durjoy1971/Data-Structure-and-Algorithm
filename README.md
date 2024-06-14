@@ -12,14 +12,30 @@ This repository will cover topics using **C++** and **Java**.
   - Merge Sort
   - Quick Sort
 
-- **Tree based DSA**
+- **Tree Based DSA**
 
   - Binary Tree
   - Binary Search Tree
   - Tree Traversal
 
 - **Searching Algorithms**
+
   - Linear Search
   - Binary Search
+
+- **Graph Based DSA**
+
+  - DFS
+  - BFS
+
+- **STL || Collection**
+  - Vector (C++)
+  - Dequeue (C++)
+  - Queue (C++)
+  - Priority Queue (C++)
+  - Stack (C++)
+  - Set (C++)
+  - MultiSet (C++)
+  - Map (C++)
 
 Continue...
